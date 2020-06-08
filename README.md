@@ -12,7 +12,7 @@ This project uses Deep Q Network to train an RL-Agent to navigate (and collect b
 
 <u style="text-decoration-color:gray">The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction</u>. Given this information, the agent has to learn how to best select actions. Four discrete actions are available, corresponding to:
 
-   - **`0`** - move forward
+    - **`0`** - move forward
     - **`1`** - move backward
     - **`2`** - turn left
     - **`3`** - turn right
