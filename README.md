@@ -7,7 +7,7 @@
 
 
 ### Project Details
-This project uses Deep Q Network to train an RL-Agent to navigate (and collect bananas!) in a large, square world.
+This project uses Deep Q Network to train a RL-Agent to navigate (and collect bananas!) in a large, square world.
 <u style="text-decoration-color:gray">A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.</u> Thus, the goal of the RL agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 
 <u style="text-decoration-color:gray">The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around the agent's forward direction</u>. Given this information, the agent has to learn how to best select actions. Four discrete actions are available, corresponding to:
