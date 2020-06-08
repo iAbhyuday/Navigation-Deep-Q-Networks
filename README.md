@@ -15,8 +15,7 @@ This project uses Deep Q Network to train an RL-Agent to navigate (and collect b
    - **`0`**  move forward
    - **`1`**  move backward
    - **`2`**  turn left
-   - **`3`**  turn right
-<br>
+   - **`3`**  turn right  <br>
 The task is episodic, and in order to solve the environment, agent must get an average score of +13 over 100 consecutive episodes.
 ### Getting Started
 - Clone this repository
