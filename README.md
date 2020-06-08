@@ -6,7 +6,7 @@
 <br><br>
 
 
-### Description
+### Project Details
 This project uses Deep Q Network to train an RL-Agent to navigate (and collect bananas!) in a large, square world.
 <u style="text-decoration-color:gray">A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.</u> Thus, the goal of the RL agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 
@@ -29,14 +29,7 @@ This project uses Deep Q Network to train an RL-Agent to navigate (and collect b
   ```
   pip intall -r requirements.txt
   ```
-
-    
- 
-
-
-
-
-#### Instructions
+### Instructions
 1. Change the location for Unity Environment in  **`Navigation.ipynb`** at cell 4
 2. Test the pretrained model by function in cell 13
 3. Feel free to change the hyperparameters of the agent and the Network Architecture 
