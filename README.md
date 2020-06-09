@@ -28,7 +28,7 @@ The task is episodic, and in order to solve the environment, agent must get an a
 - Create a virtual environment with python3.6
 - Install dependencies via pip 
   ```
-  pip intall -r requirements.txt
+  pip install -r requirements.txt
   ```
 ### Instructions
 1. Change the location for Unity Environment in  **`Navigation.ipynb`** at cell 4
